@@ -1,0 +1,4 @@
+.home_heading > h2 {
+  text-transform: capitalize;
+  padding-top: 5px;
+}

@@ -1,0 +1,37 @@
+.global_link {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.heading > h1 {
+  text-transform: capitalize;
+  font-size: 2rem;
+  margin-left: 10px;
+  margin-top: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav_link {
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  font-weight: bold;
+}
+.nav_icons {
+  margin-right: 10px;
+}
+.nav_link:hover {
+  color: wheat;
+}
+.icons {
+  margin-right: 5px;
+  color: black;
+  font-size: 1.8rem;
+}
